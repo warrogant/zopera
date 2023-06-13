@@ -1,0 +1,34 @@
+#端口
+server:
+  port: 9090
+#MybatisPlusConfig
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#数据库配置
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/zhuangopera?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC&serverTimezone=GMT%2b8
+    username: root
+    password: root
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  #文件上传配置
+  servlet:
+    multipart:
+      #每个文件的配置最大为2G
+      max-file-size: 2048MB
+      #单次请求的文件的总数不能大于2G
+      max-request-size: 2048MB
+#      location:  E:/GraduationDesign/tmp
+  #时间格式
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+#文件操作配置
+files:
+  upload:
+#    path: /home/files/
+    path: E:/GraduationDesign/files/

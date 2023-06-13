@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b027cc3-fb75-4b08-a5ef-22a82be9aea9" name="Changes" comment="0613-2-end">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="516b5606-e13a-4566-9c17-b4880d12f7c6" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/controller/UserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/mapper/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/entity/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/config/Swagger2Config.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/ZoperaApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/mapper/User.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/zopera/config/CorsConfig.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMQ1SXhUKLCf2jR7l66mvevq3N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Program Files/JetBrains/IntelliJ IDEA 2023.1/eclipse-codestyle.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8929325e2b5dc2649f097863bd95a56e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.zopera.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZoperaApplication">
+    <configuration name="ZoperaApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zopera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.zopera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.zopera" />
+      <option name="MAIN_CLASS_NAME" value="com.example.zopera.ZoperaApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoperaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="zopera" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.zopera.ZoperaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZoperaApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b027cc3-fb75-4b08-a5ef-22a82be9aea9" name="Changes" comment="" />
+      <created>1679471260767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679471260767</updated>
+      <workItem from="1679471261162" duration="13082000" />
+      <workItem from="1679558159312" duration="17058000" />
+      <workItem from="1679635227017" duration="5103000" />
+      <workItem from="1679646227474" duration="1904000" />
+      <workItem from="1679649581486" duration="1420000" />
+      <workItem from="1679654566487" duration="1968000" />
+      <workItem from="1679656987096" duration="1415000" />
+      <workItem from="1679658501909" duration="6615000" />
+      <workItem from="1679734887343" duration="1188000" />
+      <workItem from="1679740793224" duration="1177000" />
+      <workItem from="1679819333214" duration="599000" />
+      <workItem from="1679824470766" duration="3248000" />
+      <workItem from="1679984825999" duration="2180000" />
+      <workItem from="1679987106842" duration="454000" />
+      <workItem from="1679987722491" duration="5609000" />
+      <workItem from="1680072181816" duration="6731000" />
+      <workItem from="1680086195431" duration="549000" />
+      <workItem from="1680168867981" duration="3771000" />
+      <workItem from="1680175503397" duration="14129000" />
+      <workItem from="1680204248823" duration="399000" />
+      <workItem from="1680250086259" duration="1944000" />
+      <workItem from="1680252605127" duration="12548000" />
+      <workItem from="1680270167382" duration="4621000" />
+      <workItem from="1680428461627" duration="2470000" />
+      <workItem from="1680506964331" duration="23043000" />
+      <workItem from="1680594004573" duration="3060000" />
+      <workItem from="1680762657703" duration="30085000" />
+      <workItem from="1680851039192" duration="22020000" />
+      <workItem from="1680933759399" duration="30223000" />
+      <workItem from="1681016182120" duration="10863000" />
+      <workItem from="1681198117523" duration="1327000" />
+      <workItem from="1681466797749" duration="113000" />
+      <workItem from="1681466948309" duration="400000" />
+      <workItem from="1681467774491" duration="127000" />
+      <workItem from="1681470913097" duration="530000" />
+      <workItem from="1681471534708" duration="706000" />
+      <workItem from="1681472320437" duration="1554000" />
+      <workItem from="1681473966614" duration="221000" />
+      <workItem from="1681474231514" duration="440000" />
+      <workItem from="1681474686379" duration="929000" />
+      <workItem from="1681612671930" duration="74000" />
+      <workItem from="1681801109743" duration="22836000" />
+      <workItem from="1681892329381" duration="2891000" />
+      <workItem from="1682068516861" duration="1114000" />
+      <workItem from="1682405842473" duration="2583000" />
+      <workItem from="1682435559769" duration="13104000" />
+      <workItem from="1682486265307" duration="6637000" />
+      <workItem from="1682511034446" duration="4871000" />
+      <workItem from="1682568453008" duration="21405000" />
+      <workItem from="1682660908926" duration="25215000" />
+      <workItem from="1682747967319" duration="12784000" />
+      <workItem from="1682774044172" duration="5893000" />
+      <workItem from="1682835590457" duration="1756000" />
+      <workItem from="1683085932645" duration="1042000" />
+      <workItem from="1683101059018" duration="2538000" />
+      <workItem from="1683179413819" duration="15120000" />
+      <workItem from="1683205245640" duration="842000" />
+      <workItem from="1683276110038" duration="778000" />
+      <workItem from="1683358581902" duration="6158000" />
+      <workItem from="1683393864475" duration="3601000" />
+      <workItem from="1683446687142" duration="23058000" />
+      <workItem from="1683640041042" duration="1570000" />
+      <workItem from="1683690803594" duration="6060000" />
+      <workItem from="1683698132439" duration="16665000" />
+      <workItem from="1683797545900" duration="1265000" />
+      <workItem from="1683856774490" duration="675000" />
+      <workItem from="1683874049423" duration="6781000" />
+      <workItem from="1683954199678" duration="15617000" />
+      <workItem from="1684038429310" duration="14564000" />
+      <workItem from="1684077372419" duration="4032000" />
+      <workItem from="1684122944686" duration="26637000" />
+      <workItem from="1684199820620" duration="20191000" />
+      <workItem from="1684234048224" duration="15150000" />
+      <workItem from="1684284631348" duration="30768000" />
+      <workItem from="1684367185803" duration="14792000" />
+      <workItem from="1684458112654" duration="9657000" />
+      <workItem from="1684493653474" duration="7441000" />
+      <workItem from="1684558285774" duration="15277000" />
+      <workItem from="1684633693590" duration="14106000" />
+      <workItem from="1684665394627" duration="5799000" />
+      <workItem from="1684681089871" duration="2653000" />
+      <workItem from="1684720935266" duration="953000" />
+      <workItem from="1684733104778" duration="2043000" />
+      <workItem from="1684737251237" duration="1816000" />
+      <workItem from="1684904833408" duration="4085000" />
+      <workItem from="1684924757488" duration="873000" />
+      <workItem from="1685199598057" duration="589000" />
+      <workItem from="1685453949965" duration="1678000" />
+      <workItem from="1685520653684" duration="1951000" />
+      <workItem from="1685532191391" duration="1094000" />
+      <workItem from="1685543113313" duration="3135000" />
+      <workItem from="1685588316274" duration="261000" />
+      <workItem from="1685591779105" duration="453000" />
+      <workItem from="1686231001029" duration="3707000" />
+      <workItem from="1686307520862" duration="1069000" />
+      <workItem from="1686630569636" duration="4754000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1679986873470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679986873470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1679987224231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679987224231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0328-idea-1">
+      <created>1679987957869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679987957869</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0328-idea-1">
+      <created>1679988206407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679988206407</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0328-idea-1">
+      <created>1679988335807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679988335807</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0328-idea-1">
+      <created>1679988405437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679988405437</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0328-idea-2">
+      <created>1680011985136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011985136</updated>
+    </task>
+    <task id="LOCAL-00008" summary="0329-idea-用户登录成功">
+      <created>1680085679566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680085679566</updated>
+    </task>
+    <task id="LOCAL-00009" summary="0329-1-用户登录成功">
+      <created>1680085802346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680085802346</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0329-1-用户登录成功">
+      <created>1680085986296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680085986296</updated>
+    </task>
+    <task id="LOCAL-00011" summary="0329-1-用户登录成功">
+      <created>1680086027643</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680086027643</updated>
+    </task>
+    <task id="LOCAL-00012" summary="0329-1-demo">
+      <created>1680086228400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680086228400</updated>
+    </task>
+    <task id="LOCAL-00013" summary="0330-1-完成注册和个人信息">
+      <created>1680204000449</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680204000449</updated>
+    </task>
+    <task id="LOCAL-00014" summary="0330-1-完成注册和个人信息">
+      <created>1680204275157</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680204275157</updated>
+    </task>
+    <task id="LOCAL-00015" summary="0330-1-完成注册和个人信息">
+      <created>1680204344864</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680204344864</updated>
+    </task>
+    <task id="LOCAL-00016" summary="0401-1-JWT">
+      <created>1680282723024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680282723024</updated>
+    </task>
+    <task id="LOCAL-00017" summary="0404-1-fileUpload+echarts">
+      <created>1680547955141</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680547955141</updated>
+    </task>
+    <task id="LOCAL-00018" summary="0407-1-Echats,Role,Menu">
+      <created>1680807116215</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807116215</updated>
+    </task>
+    <task id="LOCAL-00019" summary="0407-1-Echats,Role,Menu">
+      <created>1680807301394</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807301394</updated>
+    </task>
+    <task id="LOCAL-00020" summary="0407-1-Echats,Role,Menu">
+      <created>1680807407669</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807407669</updated>
+    </task>
+    <task id="LOCAL-00021" summary="0407-1-Echats,Role,Menu">
+      <created>1680807536079</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807536079</updated>
+    </task>
+    <task id="LOCAL-00022" summary="04088-1-Role,Menu,Dict">
+      <created>1680894689539</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680894689539</updated>
+    </task>
+    <task id="LOCAL-00023" summary="0409-1-avatorUpload, router">
+      <created>1680984008228</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680984008228</updated>
+    </task>
+    <task id="LOCAL-00024" summary="0410-1-avatorUpload, router">
+      <created>1681074499689</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681074499690</updated>
+    </task>
+    <task id="LOCAL-00025" summary="0419-1-完善文件上传下载功能，完成修改密码功能">
+      <created>1681841280141</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1681841280141</updated>
+    </task>
+    <task id="LOCAL-00026" summary="0426-1-完善首页">
+      <created>1682451835721</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682451835722</updated>
+    </task>
+    <task id="LOCAL-00027" summary="0428-1-完善活动功能">
+      <created>1682627666438</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1682627666438</updated>
+    </task>
+    <task id="LOCAL-00028" summary="0429-完成评论以及视频、活动">
+      <created>1682710433636</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682710433636</updated>
+    </task>
+    <task id="LOCAL-00029" summary="0430-完善活动点击量同步和首页">
+      <created>1682793756902</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1682793756903</updated>
+    </task>
+    <task id="LOCAL-00030" summary="0508-完善戏曲信息页面以及戏曲上传和活动图片上传、完成公告发布功能">
+      <created>1683490706374</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1683490706374</updated>
+    </task>
+    <task id="LOCAL-00031" summary="0514-完善戏曲信息页面">
+      <created>1684077107310</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684077107311</updated>
+    </task>
+    <task id="LOCAL-00032" summary="0516-完善整体功能">
+      <created>1684202216060</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684202216060</updated>
+    </task>
+    <task id="LOCAL-00033" summary="0516-更新">
+      <created>1684202258602</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684202258602</updated>
+    </task>
+    <task id="LOCAL-00034" summary="0519-1-完成整体功能">
+      <created>1684429548409</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684429548409</updated>
+    </task>
+    <task id="LOCAL-00035" summary="0520-1-完成整体功能">
+      <created>1684566462749</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1684566462749</updated>
+    </task>
+    <task id="LOCAL-00036" summary="0521-1-完善系统功能">
+      <created>1684658725467</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1684658725467</updated>
+    </task>
+    <task id="LOCAL-00037" summary="0521-2-完善系统功能">
+      <created>1684680983817</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684680983817</updated>
+    </task>
+    <task id="LOCAL-00038" summary="0530-1-完成系统基本功能实现">
+      <created>1685455788823</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685455788823</updated>
+    </task>
+    <task id="LOCAL-00039" summary="0613-1-end">
+      <created>1686632800086</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1686632800086</updated>
+    </task>
+    <task id="LOCAL-00040" summary="0613-1-end">
+      <created>1686633303121</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1686633303121</updated>
+    </task>
+    <task id="LOCAL-00041" summary="0613-2-end">
+      <created>1686633365237</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1686633365237</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="0329-1-用户登录成功" />
+    <MESSAGE value="0329-1-demo" />
+    <MESSAGE value="0330-1-完成注册和个人信息" />
+    <MESSAGE value="0401-1-JWT" />
+    <MESSAGE value="0404-1-fileUpload+echarts" />
+    <MESSAGE value="0407-1-Echats,Role,Menu" />
+    <MESSAGE value="04088-1-Role,Menu,Dict" />
+    <MESSAGE value="0409-1-avatorUpload, router" />
+    <MESSAGE value="0410-1-avatorUpload, router" />
+    <MESSAGE value="0419-1-完善文件上传下载功能，完成修改密码功能" />
+    <MESSAGE value="0426-1-完善首页" />
+    <MESSAGE value="0428-1-完善活动功能" />
+    <MESSAGE value="0429-完成评论以及视频、活动" />
+    <MESSAGE value="0430-完善活动点击量同步和首页" />
+    <MESSAGE value="0508-完善戏曲信息页面以及戏曲上传和活动图片上传、完成公告发布功能" />
+    <MESSAGE value="0514-完善戏曲信息页面" />
+    <MESSAGE value="0516-完善整体功能" />
+    <MESSAGE value="0516-更新" />
+    <MESSAGE value="0519-1-完成整体功能" />
+    <MESSAGE value="0520-1-完成整体功能" />
+    <MESSAGE value="0521-1-完善系统功能" />
+    <MESSAGE value="0521-2-完善系统功能" />
+    <MESSAGE value="0530-1-完成系统基本功能实现" />
+    <MESSAGE value="0613-1-end" />
+    <MESSAGE value="0613-2-end" />
+    <option name="LAST_COMMIT_MESSAGE" value="0613-2-end" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((MD5)this).digest" language="JAVA" custom="cn.hutool.crypto.digest.MD5" />
+        <watch expression="operas.get(0)" />
+        <watch expression="operas.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zopera$ZoperaApplication.ic" NAME="ZoperaApplication Coverage Results" MODIFIED="1683479828067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
